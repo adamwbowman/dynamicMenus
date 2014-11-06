@@ -1,4 +1,4 @@
-# .js Readme
+# highcharts-meteor.js Readme
 
 
 ## Title

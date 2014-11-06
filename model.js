@@ -1,3 +1,4 @@
 
 // Data model
-//Questions = new Meteor.Collection("questions");
+Categories = new Meteor.Collection("categories");
+Items = new Meteor.Collection("items");
