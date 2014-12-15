@@ -1,4 +1,4 @@
-# highcharts-meteor.js Readme
+# dynamicMenus.js Readme
 
 
 ## Title
